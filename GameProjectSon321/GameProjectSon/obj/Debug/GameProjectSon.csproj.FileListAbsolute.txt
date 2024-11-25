@@ -1,0 +1,145 @@
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\obj\Debug\GameProjectSon.csproj.AssemblyReference.cache
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\obj\Debug\BBP201Project1.Form1.resources
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\obj\Debug\GameProjectSon.Properties.Resources.resources
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\obj\Debug\GameProjectSon.csproj.GenerateResource.cache
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\obj\Debug\GameProjectSon.csproj.CoreCompileInputs.cache
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\bin\Debug\GameProjectSon.exe.config
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\bin\Debug\GameProjectSon.exe
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\bin\Debug\GameProjectSon.pdb
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\obj\Debug\GameProjectSon.exe
+C:\Users\simal\source\repos\GameProjectSon\GameProjectSon\obj\Debug\GameProjectSon.pdb
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.csproj.AssemblyReference.cache
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.AnaSayfaForm.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\BBP201Project1.Form1.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.Properties.Resources.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.csproj.GenerateResource.cache
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.csproj.CoreCompileInputs.cache
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.exe
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.pdb
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\bin\Debug\GameProjectSon.exe.config
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\bin\Debug\GameProjectSon.exe
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\bin\Debug\GameProjectSon.pdb
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.BitisEkraniForm.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.YapimcilarForm.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.LevellerForm.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.Form2.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.Form3.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.Form4.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon123\GameProjectSon\obj\Debug\GameProjectSon.Form5.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe.config
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.pdb
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.AssemblyReference.cache
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.AnaSayfaForm.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.BitisEkraniForm.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\BBP201Project1.Form1.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form2.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form3.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form4.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form5.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.LevellerForm.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Properties.Resources.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.YapimcilarForm.resources
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.GenerateResource.cache
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.CoreCompileInputs.cache
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.exe
+C:\Users\Talha Emin\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.pdb
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.AssemblyReference.cache
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.exe
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.pdb
+C:\Masaüstü\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe.config
+C:\Masaüstü\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe
+C:\Masaüstü\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.pdb
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.AnaSayfaForm.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.BitisEkraniForm.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\BBP201Project1.Form1.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form2.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form3.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form4.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form5.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Properties.Resources.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.YapimcilarForm.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.GenerateResource.cache
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.CoreCompileInputs.cache
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\Game.mdf
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\Game_log.ldf
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe.config
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.pdb
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.AssemblyReference.cache
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.AnaSayfaForm.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.BitisEkraniForm.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\BBP201Project1.Form1.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form2.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form3.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form4.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form5.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Properties.Resources.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.YapimcilarForm.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.GenerateResource.cache
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.CoreCompileInputs.cache
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.exe
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.pdb
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.scoreTablosu.resources
+C:\Masaüstü\GameProjectSon321\GameProjectSon\bin\Debug\Game.mdf
+C:\Masaüstü\GameProjectSon321\GameProjectSon\bin\Debug\Game_log.ldf
+C:\Masaüstü\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.scoreTablosu.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\bin\Debug\Game.mdf
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\bin\Debug\Game_log.ldf
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe.config
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.pdb
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.AssemblyReference.cache
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.AnaSayfaForm.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.BitisEkraniForm.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\BBP201Project1.Form1.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form2.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form3.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form4.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form5.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Properties.Resources.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.scoreTablosu.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.YapimcilarForm.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.GenerateResource.cache
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.CoreCompileInputs.cache
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.exe
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.pdb
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\bin\Debug\Interop.WMPLib.dll
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\bin\Debug\AxInterop.WMPLib.dll
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\Interop.WMPLib.dll
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\AxInterop.WMPLib.dll
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.ResolveComReference.cache
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.nasılOynanır.resources
+C:\Masaüstü\songamee\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.KullaniciGiris.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.ResolveComReference.cache
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.KullaniciGiris.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.nasılOynanır.resources
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\bin\Debug\Interop.WMPLib.dll
+C:\Users\080808\Desktop\GameProjectSon321\GameProjectSon\obj\Debug\Interop.WMPLib.dll
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\bin\Debug\Game.mdf
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\bin\Debug\Game_log.ldf
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe.config
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.exe
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\bin\Debug\GameProjectSon.pdb
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.AssemblyReference.cache
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.ResolveComReference.cache
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.AnaSayfaForm.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.BitisEkraniForm.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\BBP201Project1.Form1.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form2.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form3.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form4.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Form5.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.KullaniciGiris.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.nasılOynanır.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.Properties.Resources.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.scoreTablosu.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.YapimcilarForm.resources
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.GenerateResource.cache
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.csproj.CoreCompileInputs.cache
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.exe
+C:\Users\080808\Desktop\220111084_NisaUsta\GameProjectSon321\GameProjectSon\obj\Debug\GameProjectSon.pdb

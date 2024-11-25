@@ -1,0 +1,16 @@
+
+CONNECTİON STRİNGLER
+AnasayfaForm.cs = 35.satır
+BitisEkrani.cs = 15.satır,196.satır
+Form1.cs = 128.satır
+Form2.cs = 189.satır
+Form3.cs = 208.satır
+Form4.cs = 185.satır
+Form5.cs = 182.satır
+KullaniciGiris.cs = 44.satır, 91.satır
+ScoreTablosu.cs = 38.satır
+Yapimcilar.cs = 17.satır ,54.satır
+
+SADECE DATA SOURCE DEĞİŞTİRECEK!
+
+

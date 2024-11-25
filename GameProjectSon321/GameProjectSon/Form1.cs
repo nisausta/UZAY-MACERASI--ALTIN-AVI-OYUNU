@@ -1,0 +1,250 @@
+﻿using System.Windows.Forms;
+using System;
+using GameProjectSon;
+using System.Diagnostics;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TaskbarClock;
+using System.Data.SqlClient;
+using System.Reflection.Emit;
+using Time = GameProjectSon.Time;
+using System.Xml.Linq;
+using static GameProjectSon.AnaSayfaForm;
+using static GameProjectSon.KullaniciGiris;
+
+namespace BBP201Project1
+{
+    public partial class Form1 : Form
+    {
+        bool solaGit, sagaGit, zipla, anahtarial;
+
+        int zıplamaHizi = 10;
+        int force = 8;
+        int score = 0;
+        int karakterHizi = 10;
+        int arkaplanHizi = 8;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("1 - Anahtarı almadan kapıyı açamazsın.\n\r2 - Bütün coinleri toplamadan kapı açıkmaz.","Kurallar");
+            label4.Text = veri.name ;
+            Sayaç.Start();
+            
+        }
+
+        private void MainTimerEvent(object sender, EventArgs e)
+        {
+            
+            txtScore.Text = "Score: " + score;
+            karakter.Top += zıplamaHizi;
+
+            if (solaGit == true && karakter.Left > 60)
+            {
+                karakter.Left -= karakterHizi;
+            }
+            if (sagaGit == true && karakter.Left + (karakter.Width + 60) < this.ClientSize.Width)
+            {
+                karakter.Left += karakterHizi;
+
+            }
+            if (solaGit == true && arkaplan.Left < 0)
+            {
+                arkaplan.Left += arkaplanHizi;
+                oyunHareketElements("forward");
+            }
+            if (sagaGit == true && arkaplan.Left > -935)
+            {
+                arkaplan.Left -= arkaplanHizi;
+                oyunHareketElements("back");
+
+            }
+            if (zipla == true)
+            {
+                zıplamaHizi = -12;
+                force -= 1;
+            }
+            else
+            {
+                zıplamaHizi = 12;
+            }
+            if (zipla == true && force < 0)
+            {
+                zipla = false;
+            }
+            foreach (Control x in this.Controls)
+            {
+                if (x is PictureBox && (string)x.Tag == "platform")
+                {
+                    if (karakter.Bounds.IntersectsWith(x.Bounds) && zipla == false)
+                    {
+                        force = 8;
+                        karakter.Top = x.Top - karakter.Height;
+                        zıplamaHizi = 0;
+                    }
+                    x.BringToFront();
+                }
+                if(x is PictureBox && (string)x.Tag == "kilic")
+                {
+                    if (karakter.Bounds.IntersectsWith(x.Bounds))
+                    {
+                        GameTimer.Stop();
+                        BitisEkraniForm f = new BitisEkraniForm();
+                        f.Message("Bolum 1 İyi Denemeydi");
+                        f.Time(gecenSure.ToString());
+                        f.Score(score);
+                        f.Show();
+                        this.Hide();
+                    }
+                    x.BringToFront();
+                }
+                if (x is PictureBox && (string)x.Tag == "altın")
+                {
+                    if (karakter.Bounds.IntersectsWith(x.Bounds) && x.Visible == true)
+                    {
+                        x.Visible = false;
+                        score += 1;
+                    }
+                }
+            }
+            if (karakter.Bounds.IntersectsWith(anahtar.Bounds))
+            {
+                anahtar.Visible = false;
+                anahtarial = true;
+            }
+            if (karakter.Bounds.IntersectsWith(kapı.Bounds) && anahtarial == true && score >= 30)
+            {
+                kapı.Image = GameProjectSon.Properties.Resources.door_open;
+                GameTimer.Stop();
+                BitisEkraniForm f = new BitisEkraniForm();
+                f.Message("1. Bölüm Bitti");
+                string oyuncuadı = "";
+                oyuncuadı = AnaSayfaForm.adgetir.ad;
+
+                Time.Second = gecenSure;
+
+                string conString = "Data Source=NISA;Initial Catalog=gameProject222;Integrated Security=True";
+                SqlConnection connect = new SqlConnection(conString);
+                connect.Open();
+
+                SqlCommand cmd2 = new SqlCommand($"select OyuncuID from Oyuncular where Ad = '{oyuncuadı}'", connect);
+                int id = Convert.ToInt32(cmd2.ExecuteScalar());
+
+                SqlCommand cmd = new SqlCommand($"IF EXISTS (SELECT 1 FROM Score WHERE OyuncuID = {id})\r\nBEGIN\r\n    UPDATE Score\r\n    SET ScorePuani = ${score}\r\n    WHERE OyuncuID = ${id};\r\nEND\r\nELSE\r\nBEGIN\r\n    INSERT INTO Score (OyuncuID, ScorePuani)\r\n    VALUES (${id}, ${score});\r\nEND", connect);
+                cmd.ExecuteNonQuery();
+
+                SqlCommand cmd3 = new SqlCommand($"IF EXISTS (SELECT 1 FROM Sure WHERE OyuncuID = {id})\r\nBEGIN\r\n    UPDATE Sure\r\n    SET Sure = ${Time.Second}\r\n    WHERE OyuncuID = ${id};\r\nEND\r\nELSE\r\nBEGIN\r\n    INSERT INTO Sure (OyuncuID, Sure)\r\n    VALUES (${id}, ${Time.Second});\r\nEND", connect);
+                cmd3.ExecuteNonQuery();
+
+                f.Time(GameProjectSon.Time.Second.ToString());
+                f.Score(score);
+                f.Show();
+                this.Hide();
+            }
+            if (karakter.Top + karakter.Height > this.ClientSize.Height)
+            {
+                GameTimer.Stop();
+                BitisEkraniForm f = new BitisEkraniForm();
+                f.Message("Bolum 1 İyi Denemeydi");
+                f.Time(gecenSure.ToString());
+                f.Score(score);
+                f.Show();
+                this.Hide();
+            }
+
+
+        }
+        private void KeyIsDown(object sender, KeyEventArgs e) //tuş atamaları.
+        {
+            if (e.KeyCode == Keys.Left || e.KeyCode == Keys.A) // sol için
+            {
+                solaGit = true;
+            }
+            if (e.KeyCode == Keys.Right || e.KeyCode == Keys.D) // sağ için
+            {
+                sagaGit = true;
+            }
+            if (e.KeyCode == Keys.Up && zipla == false || e.KeyCode == Keys.W && zipla == false || e.KeyCode == Keys.Space && zipla == false) // zıplama için
+            {
+                zipla = true;
+            }
+        }
+
+        private void arkaplan_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtScore_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        int gecenSure = 0;
+
+        private void Sayaç_Tick(object sender, EventArgs e)
+        {
+            gecenSure += 1;
+            label3.Text = $"SURE : {gecenSure}";
+            veri.gecen_sure = gecenSure;
+        }
+
+        private void kapı_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        public void isimYaz()
+        {
+            label4.Text = veri.name ;
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void KeyIsUp(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Left || e.KeyCode == Keys.A)
+            {
+                solaGit = false;
+            }
+            if (e.KeyCode == Keys.Right || e.KeyCode == Keys.D)
+            {
+                sagaGit = false;
+            }
+            if (zipla == true) // zıplama için
+            {
+                zipla = false;
+            }
+        }
+
+
+        private void OyunuDurdur(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+        private void oyunHareketElements(string direction)
+        {
+            foreach (Control x in this.Controls)
+            {
+                if (x is PictureBox && (string)x.Tag == "platform" || x is PictureBox && (string)x.Tag == "altın" || x is PictureBox && (string)x.Tag == "anahtar" || x is PictureBox && (string)x.Tag == "kapı" || x is PictureBox && (string)x.Tag == "kilic")
+                {
+                    if (direction == "back")
+                    {
+                        x.Left -= arkaplanHizi;
+                    }
+                    if (direction == "forward")
+                    {
+                        x.Left += arkaplanHizi;
+                    }
+                }
+            }
+
+        }
+
+    }
+}

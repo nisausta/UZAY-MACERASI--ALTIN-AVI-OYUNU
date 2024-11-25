@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|c:\\users\\080808\\desktop\\220111084_nisausta\\gameprojectson321\\gameprojectson\\yapimcilarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\yapimcilarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\yapimcilarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\yapimcilarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\scoretablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\scoretablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\scoretablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\scoretablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\nas\u0131loynan\u0131r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\nas\u0131loynan\u0131r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\nas\u0131loynan\u0131r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\nas\u0131loynan\u0131r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\kullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\kullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\kullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\kullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\bitisekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\bitisekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\gameprojectson\\bitisekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB03B107-0E24-491E-AF00-242DAC66EB0A}|GameProjectSon\\GameProjectSon.csproj|solutionrelative:gameprojectson\\bitisekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YapimcilarForm.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\YapimcilarForm.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\YapimcilarForm.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\YapimcilarForm.cs",
+              "RelativeToolTip": "GameProjectSon\\YapimcilarForm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:47:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YapimcilarForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\YapimcilarForm.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\YapimcilarForm.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\YapimcilarForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\YapimcilarForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:47:22.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scoreTablosu.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\scoreTablosu.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\scoreTablosu.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\scoreTablosu.cs",
+              "RelativeToolTip": "GameProjectSon\\scoreTablosu.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAlwB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:46:26.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scoreTablosu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\scoreTablosu.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\scoreTablosu.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\scoreTablosu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\scoreTablosu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:46:26.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nas\u0131lOynan\u0131r.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\nas\u0131lOynan\u0131r.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\nas\u0131lOynan\u0131r.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\nas\u0131lOynan\u0131r.cs",
+              "RelativeToolTip": "GameProjectSon\\nas\u0131lOynan\u0131r.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:46:20.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nas\u0131lOynan\u0131r.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\nas\u0131lOynan\u0131r.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\nas\u0131lOynan\u0131r.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\nas\u0131lOynan\u0131r.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\nas\u0131lOynan\u0131r.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:46:17.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KullaniciGiris.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\KullaniciGiris.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\KullaniciGiris.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\KullaniciGiris.cs",
+              "RelativeToolTip": "GameProjectSon\\KullaniciGiris.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:46:01.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KullaniciGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\KullaniciGiris.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\KullaniciGiris.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\KullaniciGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\KullaniciGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:45:59.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form5.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form5.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form5.cs",
+              "RelativeToolTip": "GameProjectSon\\Form5.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAtwLUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:45:43.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form5.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form5.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form5.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\Form5.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\Form5.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:45:41.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form4.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form4.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form4.cs",
+              "RelativeToolTip": "GameProjectSon\\Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:45:29.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form4.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form4.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:45:26.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form3.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form3.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form3.cs",
+              "RelativeToolTip": "GameProjectSon\\Form3.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAtwM8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:45:08.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form3.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form3.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:45:07.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form1.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form1.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:22:15.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form2.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form2.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form2.cs",
+              "RelativeToolTip": "GameProjectSon\\Form2.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAtwLwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:11:20.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form2.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form2.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:11:17.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BitisEkraniForm.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\BitisEkraniForm.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\BitisEkraniForm.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\BitisEkraniForm.cs",
+              "RelativeToolTip": "GameProjectSon\\BitisEkraniForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:08:18.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BitisEkraniForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\BitisEkraniForm.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\BitisEkraniForm.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\GameProjectSon321\\GameProjectSon\\BitisEkraniForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\GameProjectSon321\\GameProjectSon\\BitisEkraniForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:05:42.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form1.cs",
+              "RelativeDocumentMoniker": "GameProjectSon\\Form1.cs",
+              "ToolTip": "C:\\Users\\080808\\Desktop\\220111084_NisaUsta\\GameProjectSon321\\GameProjectSon\\Form1.cs",
+              "RelativeToolTip": "GameProjectSon\\Form1.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAtwH8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:22:16.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
