@@ -32,7 +32,7 @@ SKOR TABLOSU
 ![Resim5](https://github.com/user-attachments/assets/92a212b2-f652-45dc-a130-2e8914208d2d)
 
 
-VERİ TABANI ÖRNEĞİ
+VERİ TABANI İÇERİĞİ
 
 
 ![Resim6](https://github.com/user-attachments/assets/c88e0ee0-2434-4a59-b512-d18697f7f574)
